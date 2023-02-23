@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @swapnilnakate7
-- 👀 I’m interested in Latest Development Trends
-- 🌱 I’m currently learning Cloud Tech
-- 💞️ I’m looking to collaborate on Java, Angular, Javascript
+- 👋 Hey, This is @swapnilnakate7
+- 👀 Interested in Latest Development Trends
+- 🌱 Currently learning Cloud Tech
+- 💞️ Looking to collaborate on Java, Angular, Javascript
 - 📫 How to reach me nakate.swapnil7@gmail.com
 
 <!---
